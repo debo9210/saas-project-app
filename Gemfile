@@ -22,6 +22,7 @@ gem 'jquery-rails'
 gem 'jquery-ui-rails'
 gem 'devise', '~> 4.6.1'
 gem 'milia'
+gem 'stripe'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
